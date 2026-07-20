@@ -8,7 +8,7 @@ You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch develop
+bench get-app https://github.com/its-alikhokher/Frappe_Enhance_Calender_view.git --branch develop
 bench install-app frappe_enh_calview
 ```
 ## ⭐ Support
